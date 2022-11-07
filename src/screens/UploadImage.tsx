@@ -16,7 +16,7 @@ const UploadImage = () => {
     const config = {
       headers: {
         // 'content-type': 'multipart/form-data',
-        Authorization: `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MzY3ZTZhYmFkNjljNWYwZDJjMzg1M2YiLCJpYXQiOjE2Njc3NTM2NDMsImV4cCI6MTY2Nzg0MDA0M30.9IwTPP9T64BlbbNowPRPEmGta6kqRGSuIz3THsGLpKc`
+        Authorization: `Bearer`
       }
     };
 
